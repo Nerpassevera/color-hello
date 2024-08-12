@@ -1,0 +1,21 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "Set Up A CI/CD Pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Tatiana Trofimova",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.25.3",
+    "@babel/preset-react": "^7.24.7",
+    "@babel/preset-typescript": "^7.24.7",
+    "babel-jest": "^29.7.0"
+  }
+}
